@@ -9,7 +9,6 @@ public class Calculadora {
 		 Integer a;
 		 Integer b;
 		 Integer resultado;
-		 System.out.println("holaaaaa");
 		 do{
 		 System.out.println("Ingrese su operación /n 1 para sumar /n 2 para\r\n" + "restar /n 3 para multiplicar /n 4 para dividir");
 		 opcion = teclado.nextInt();
